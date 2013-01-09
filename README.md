@@ -12,7 +12,7 @@ the GitHub repository if you wish to compile your own version of this software.
 JSoup is distributed under the terms of the [MIT License](http://opensource.org/licenses/MIT).
 
 JavaMail is distributed under the terms of the [Oracle Binary Code License
-Agreement for Java EE Technologies](http://download.oracle.com/otn-pub/java/licenses/OTN_JavaEE_Legacy_Binary-Code-License_30Jan2012.txt?AuthParam=1357765105_0aed2f2cfa81254c866b2ee748ffcdf6).
+Agreement for Java EE Technologies](http://download.oracle.com/otn-pub/java/licenses/OTN_JavaEE_Legacy_Binary-Code-License_30Jan2012.txt).
 
 My code (Blurb.java and RotoScan.java) are licensed under the GNU General Public
 license, version 2 or later. Version two is included in this GitHub repository
