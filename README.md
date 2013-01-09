@@ -14,6 +14,6 @@ JSoup is distributed under the terms of the [MIT License](http://opensource.org/
 JavaMail is distributed under the terms of the [Oracle Binary Code License
 Agreement for Java EE Technologies](http://download.oracle.com/otn-pub/java/licenses/OTN_JavaEE_Legacy_Binary-Code-License_30Jan2012.txt).
 
-My code (Blurb.java and RotoScan.java) are licensed under the GNU General Public
-license, version 2 or later. Version two is included in this GitHub repository
+My code (Blurb.java and RotoScan.java) is licensed under the GNU General Public
+license, version two or later. Version two is included in this GitHub repository
 as LICENSE.txt.
