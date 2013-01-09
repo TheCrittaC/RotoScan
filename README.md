@@ -1,0 +1,1 @@
+This program (when finished) will scan the Rotoworld website for updates and email them to a designated email address.
