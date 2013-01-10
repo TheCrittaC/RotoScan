@@ -1,0 +1,2 @@
+Main-Class: GUIDriver
+Class-Path: jsoup-1.7.1.jar mail.jar

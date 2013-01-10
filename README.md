@@ -4,6 +4,10 @@ blocks, so one can send them to a phone as a text message. However, the "email
 address" of the phone must be specified in the program (for example, Verizon's
 are phonenumber@vtext.com).
 
+As of version 0.7, there is also a rudimentary Swing GUI included with the
+program. Executable .jar files of both the CLI and GUI versions of RotoScan
+can be found in the [GitHub repository](https://github.com/TheCrittaC/RotoScan).
+
 The code to send email via a GMail address was modified from code at [this page](http://www.mkyong.com/java/javamail-api-sending-email-via-gmail-smtp-example/).
 
 This program uses JSoup and JavaMail. Both of these jar files are included in
@@ -14,6 +18,6 @@ JSoup is distributed under the terms of the [MIT License](http://opensource.org/
 JavaMail is distributed under the terms of the [Oracle Binary Code License
 Agreement for Java EE Technologies](http://download.oracle.com/otn-pub/java/licenses/OTN_JavaEE_Legacy_Binary-Code-License_30Jan2012.txt).
 
-My code (Blurb.java and RotoScan.java) is licensed under the GNU General Public
-license, version two or later. Version two is included in this GitHub repository
-as LICENSE.txt.
+My code (all other .java files included in this repository) is licensed under
+the GNU General Public license, version two or later. Version two is included
+in this GitHub repository as LICENSE.txt.
