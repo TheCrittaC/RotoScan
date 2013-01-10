@@ -8,6 +8,10 @@ As of version 0.7, there is also a rudimentary Swing GUI included with the
 program. Executable .jar files of both the CLI and GUI versions of RotoScan
 can be found in the [GitHub repository](https://github.com/TheCrittaC/RotoScan).
 
+A screenshot of the GUI version is shown below.
+
+![RotoScan GUI Screenshot](https://i.minus.com/ib2m3J61tI0Ht5.png)
+
 The code to send email via a GMail address was modified from code at [this page](http://www.mkyong.com/java/javamail-api-sending-email-via-gmail-smtp-example/).
 
 This program uses JSoup and JavaMail. Both of these jar files are included in
